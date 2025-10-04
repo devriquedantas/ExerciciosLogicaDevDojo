@@ -9,4 +9,6 @@ Este repositório contém os exercícios que estou resolvendo após concluir a p
 
 📂 Organização:  
 Cada exercício está em uma classe separada, numerada em ordem (`Ex01`, `Ex02`, ...).  
-O enunciado de cada questão está comentado no início do código.  
+O enunciado de cada questão está comentado no início do código.
+
+.
