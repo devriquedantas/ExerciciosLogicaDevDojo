@@ -2,7 +2,8 @@
 // após realizado o cálculo classificar o paciente de acordo com a tabela abaixo.
 
 
-package EstruturasDeDecisao;
+
+        package EstruturasDeDecisao;
 
 import java.util.Scanner;
 
