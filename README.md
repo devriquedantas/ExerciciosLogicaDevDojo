@@ -1,6 +1,6 @@
 # Exercícios de Lógica em Java
 
-Este repositório contém os exercícios que estou resolvendo após concluir a playlist de **Lógica de Programação em Java** do canal [DevDojo](https://www.youtube.com/@devdojobr).
+Este repositório contém os exercícios que estou resolvendo após concluir a playlist de **Lógica de Programação em Java** do canal [DevDojo](https://www.youtube.com/@DevDojoBrasil).
 
 📌 Objetivos:  
 - Fixar a base de programação (variáveis, condicionais, laços, arrays).  
